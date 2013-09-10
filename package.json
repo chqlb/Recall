@@ -1,0 +1,10 @@
+{
+    "name": "Recall",
+    "author": "chqlb <chqlb@yahoo.com>",
+    "description": "It is a simple game for recall.",
+    "version": "0.0.1",
+    "type": "application",
+    "dependencies": {
+        "connect": "*"
+    }
+}

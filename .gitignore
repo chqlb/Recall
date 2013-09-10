@@ -1,0 +1,4 @@
+# Igore folders #
+node_modules
+.idea
+
